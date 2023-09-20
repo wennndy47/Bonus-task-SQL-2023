@@ -1,2 +1,8 @@
 # Bonus-task-SQL-2023
-Bonus task with SQL for 2023 Fall Semester practicum.
+Бонусное задание на практикуме по ЭВМ 2023 (осенний семестр)
+
+# Prerequisites
+
+# Installation and setup
+
+# Features
